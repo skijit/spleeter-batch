@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DEFAULT_DIRECTORY="/mnt/c/Users/skijit/Desktop/export-test"
+DEFAULT_DIRECTORY="/mnt/c/Users/skijit/Desktop/export"
 
 DIRECTORY="${1:-$DEFAULT_DIRECTORY}"
 FILES="${DIRECTORY}/*"
